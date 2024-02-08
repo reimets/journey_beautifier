@@ -4,7 +4,7 @@
 
 The Itinerary Processor is a Go application designed to process flight itineraries from a text file, replace airport codes with their full names, format dates and times, and output the processed information to another text file. It utilizes airport data from a CSV file to lookup airport names by their IATA or ICAO codes.
 
-## Features
+## Features 
 
 - **Airport Code Replacement:** Converts IATA and ICAO airport codes in the itinerary to their full names.
 - **Date and Time Formatting:** Identifies and formats date and time strings into a more readable format.
